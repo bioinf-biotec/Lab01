@@ -9,7 +9,7 @@
 - Describe en no más de 4 lineas la causa y lo que provoca la enfermedad que escogiste  
 - ¿Cuál(es) gene(s) han sido relacionados con esta enfermedad?  
 
-##### Ve a la NCBI Gene database ([http://www.ncbi.nlm.nih.gov/gene](http://www.ncbi.nlm.nih.gov/gene)) y busca el gen que está involucrado en la enfermedad seleccionada. Algunos ejemplos pueden ser   
+##### Ve a la NCBI Gene database ([http://www.ncbi.nlm.nih.gov/gene](http://www.ncbi.nlm.nih.gov/gene)) y busca el gen que está involucrado en la enfermedad seleccionada. Algunos ejemplos pueden ser CFTR, SGCG, IDDM3, HBB. También puedes tratar directamente con el nombre de una enfermedad o condición (e.g., duchenne muscular dystrophy).   
 
 ![gene](https://raw.githubusercontent.com/bioinf-biotec/labs_bioinf/master/gene.png)
 
@@ -43,25 +43,66 @@ Después de presionar *entry* una nueva ventana se va a abrir donde encontrarás
 
 **Responde:**  
 		
-		Anteriormente encontraste nombres alternativos de tu gen ¿Existen otros reportados por Kegg?¿Cuáles?
+		Anteriormente encontraste nombres alternativos de tu gen ¿Existen otros reportados por Kegg? ¿Cuáles?
 		¿En qué rutas metabólicas participa la proteina codificada por tu gen?  
 		¿Cuál es el número de identificación de tu gen (entry number)?  
-		En general, cada unidad dentro de una base de datos tiene un número o código de identificación único. De esta forma, uno puede exactamente lo que quiere dentro de un oceano de otras cosas ¿En qué otras bases de datos está tu gen presente y cuáles son sus números de acceso?  
+		En general, cada unidad dentro de una base de datos tiene un número o código de identificación único. De esta forma, uno puede obtener exactamente lo que quiere dentro de un oceano de otras cosas ¿En qué otras bases de datos está tu gen presente y cuáles son sus números de acceso?  
 
 La figura más cásica que se puede obtener es el diagrama con una ruta metabólica. Probablemente tu gen está involucrado en más de una. Escoge una y toma un pantallazo para que lo incluyas en tu informe.
 
 ![pathway](https://raw.githubusercontent.com/bioinf-biotec/labs_bioinf/master/pathway.png) 
 
+**Responde:**  
+
+		¿En qué otras rutas metabólicas está involucrado tu gen?
+		¿Qué significan los cuadros verdes en el diagrama?
+		¿Con qué rutas se cruza la ruta metabólica?
+
+Ahora vamos a la página de [Gene Ontology (GO)](http://geneontology.org). Una ontología es un tipo de anotación genómica que teine que ver con atributos de regiones genómicas o de genes. En este sentido, el gen del citocromo c, por ejemplo,  no es parte de GO pero su actividad biológica, i.e., su atributo, si está (oxidoreductasa). Cualquier persona que quiera hacer un experimento de transcriptómica o genómica, secuenciar un genoma de un organismo, etc. debería tener un entendimiento profundo sobre GO. Un buen comienzo es [este artículo](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003343#s2) en PLOS Computational Biology.
+
+Ahora, desde el website de GO, lee la documentación para poder responder las siguientes preguntas:
+
+**Responde:**  
+
+		¿Cuántos "dominios" forman la anotación GO?
+		Ve a "Tools" --> "AmiGO 2" y escribe en la casilla de búsqueda GO:0006096  
+		¿A qué corresponde este término y qué información te entrega la página?
+		Haz clic en "Graph Views" y examina el gráfico. Anota 10 sub-categorías GO a la cual GO:0006096 pertenece
+
+![go](https://raw.githubusercontent.com/bioinf-biotec/labs_bioinf/master/go.png)
+
+
 #### Parte 3: Descargando secuencias, convirtiendo formatos
 
-Números de acceso
-Descargando genes o secuencias cortas
-Descargando genomas, acceso a través de FTP
-Convertir secuencia en fasta a nexus
+De alguna u otra forma, probablemente ya has tenido algún tipo de interacción con NCBI descargando secuencias nucleotídicas o aminoacídicas. En esta sección nos vamos a enfocar en descargar secuencias y sus números de acceso.
+
+Ve a la página de [NCBI](http://www.ncbi.nlm.nih.gov) y selecciona la base de datos de nucleotidos. En la casilla de búsqueda escribe GAPDH y presiona Enter.
+
+**Responde:**  
+
+		¿Cuántos items fueron encontrados? ¿cuántos en animales?
+		Probablemente tus resultados fueron una mezcla de fragmentos de genes, regiones codificantes parciales, genes completos, etc. Filtra tus datos por mRNA, animales, RefSeq.
+		Haz clic en la entrada para la secuencia de GAPDH de gallina. 
+		¿Cuál es la longitud del gen? 
+		¿Cuál es la referencia bibliográfica más reciente? 
+		¿Cuál es el número de acceso?
+		Descarga la secuencia en formato fasta y agrégala a tu informe
+
+![gapdh](https://raw.githubusercontent.com/bioinf-biotec/labs_bioinf/master/gapdh.png)
+
+Como nota adicional, la interfaz gráfica de NCBI no es de mucha ayuda cuando tienes que descargar muchas secuencias o genomas completos. En este caso se recomienda usar el portal FTP de NCBI: [ftp.ncbi.nlm.nih.gov](ftp.ncbi.nlm.nih.gov)
+
+Para finalizar esta parte, vamos a convertir la secuencia que bajaste a otro formato. Existen muchos formatos de secuencias porque responden a distintos atributos que sus autores consideraron importantes de registrar y también por razones históricas. Uno de los formatos más usados es el FASTA, sin embargo en filogenética uno súper popular y requerido por muchos programas es el formato NEXUS.
+
+Ve a la página de [Seqret](http://www.ebi.ac.uk/Tools/sfc/emboss_seqret/) del EBI. Luego copia y pega la secuencia de GAPDH en fasta en la casilla.
+
+Adjunta la secuencia en formato nexus a tu informe.
+
+![nexus](https://raw.githubusercontent.com/bioinf-biotec/labs_bioinf/master/nexus.png)
 #### Parte 4: Buscando artículos científicos en linea
 #### Trabajo de laboratorio para la próxima semana
 
-El trabajo de laboratorio para la próxima semana consta de dos partes. La primera parte ya la tienen parcialmente lista. Simplemente tienen que responder las preguntas que aparecen a través de esta guía y
+El trabajo de laboratorio para la próxima semana consta de dos partes. La primera parte ya la tienes parcialmente lista. Simplemente tienes que responder las preguntas que aparecen a través de esta guía y enviar un informe a tu ayudante con copia a eduardo.castro@unab.cl. Recuerda que si te la juegas y entregas el informe como documento Markdown tendrás 5 décimas adicionales en tu nota.
 
 Pubmed
 Highwire
