@@ -11,7 +11,7 @@
 
 ##### Ve a la NCBI Gene database ([http://www.ncbi.nlm.nih.gov/gene](http://www.ncbi.nlm.nih.gov/gene)) y busca el gen que está involucrado en la enfermedad seleccionada. Algunos ejemplos pueden ser   
 
-![gene]()
+![gene](https://raw.githubusercontent.com/bioinf-biotec/labs_bioinf/master/gene.png)
 
 La base de datos de genes de NCBI concentra información de distintas fuentes para producir una "ficha" con vínculos con otras bases de datos.
 
