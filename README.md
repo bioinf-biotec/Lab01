@@ -6,7 +6,7 @@
 
 Nota: Si alguno de Uds. no está familiarizado con GitHub, nunca es tarde para aprender algo nuevo y útil. En Google hay información en exceso, siendo la más útil la que está en inglés. También pueden encontrar información en español por ejemplo [aquí](http://conociendogithub.readthedocs.org/en/latest/data/dinamica-de-uso/)  
 
-- [Laboratorio 01 - Bases de datos biológicas](https://github.com/bioinf-biotec/labs_bioinf/blob/master/lab01.md) [PDF]()
+- [Laboratorio 01 - Bases de datos biológicas](https://github.com/bioinf-biotec/labs_bioinf/blob/master/lab01.md) [(PDF)](https://github.com/bioinf-biotec/labs_bioinf/raw/master/lab_01_bioinf_biotec.pdf)
 - Laboratorio 02 - Alineamiento de secuencias
 - Laboratorio 03 - Ensamblaje de genomas y predicción de genes
 - Laboratorio 04 - Inferencia de árboles filogenéticos
