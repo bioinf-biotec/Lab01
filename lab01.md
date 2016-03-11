@@ -5,7 +5,7 @@
 
 #### Parte 1: Enfermedades genéticas y genes
 
-- Busca una enfermedad genética humana en alguna base de datos de literatura, i.e., [Pubmed](www.pubmed.com), [Google Scholar] (scholar.google.com), o en bases de datos de enfermedades genéticas, e.g., [OMIM](http://www.omim.org)  
+- Busca una enfermedad genética humana en alguna base de datos de literatura, i.e., [Pubmed](http://www.ncbi.nlm.nih.gov/pubmed/), [Google Scholar] (https://scholar.google.com), o en bases de datos de enfermedades genéticas, e.g., [OMIM](http://www.omim.org)  
 - Describe en no más de 4 lineas la causa y lo que provoca la enfermedad que escogiste  
 - ¿Cuál(es) gene(s) han sido relacionados con esta enfermedad?  
 
