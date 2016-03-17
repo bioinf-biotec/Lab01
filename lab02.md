@@ -99,7 +99,42 @@ Teniendo en mente el aforismo más conocido en estadística, uno puede crear otr
 		¿Cuál fue el efecto de aumentar el costo de abrir un gap en la longitud total del alineamiento?
 		prueba lo mismo pero esta vez disminuyendo al mínimo el costo de extender un gap. Describe cómo cambia el alineamiento
 
-
-
 #### Parte 3: Diseño de partidores
+
+Ya llegaste a la última parte de este laboratorio. Aquí vamos a seleccionar tres secuencias de SRY, las de *Chlorocebus sabaeus*, *Homo sapiens*, *Pan troglodytes* y *Macaca Mulatta*.
+
+- Las seceuncias que descargaste anteriormente corresponden a las secuencias de mRNA. Para este ejercicio necesitamos las seceuncias codificantes o Coding Sequence (CDS)
+- Ve nuevamente a NCBI, base de datos de genes, busca SRY y en la parte de ortólogos selecciona las especies de interés. En vez de hacer clic directamente en FASTA, baja hasta el vínculo que dice CDS
+- Una pequeña ventana va a aparecer, haz clic en FASTA y copia esa secuencia en el bloc de notas.
+- Repite este procedimiento para todas las especies y guarda las secuencias con el nombre primers.fasta
+- Modifica los nombres de las secuencias de tal forma que los nombres de las especies estén dentro de paréntesis cuadrado
+
+		Desde
+		>gi|519666780|ref|NM_003140.2| Homo sapiens sex determining region Y (SRY), mRNA
+		a
+		>sry gene [Homo sapiens]
+
+Siempre es más fácil copiar en vez de hacerlo tú mismo pero el costo es que no aprendes tanto. Si quieres tomar un atajo, yo ya compilé las secuencias y están [acá](https://raw.githubusercontent.com/bioinf-biotec/labs_bioinf/master/primers.fasta).
+
+Finalmente, entra a la siguiente página y sigue las instrucciones. [primers4clades](http://maya.ccg.unam.mx/primers4clades/index.html)
+
+**Responde:**  
+		
+		Pega en tu informe los partidores que el programa encontró
+
 #### Trabajo de laboratorio para la próxima semana
+
+El trabajo de laboratorio para la próxima semana consta de dos partes. La primera parte ya la tienes parcialmente lista. Simplemente tienes que responder las preguntas que aparecen a través de esta guía y enviar un informe a tu ayudante con copia a eduardo.castro@unab.cl
+
+|**Profesor**|**Nombre**|**Correo electrónico**|  
+| ------------- |:-------------:| -----:|
+|Profesor responsable | Dr. Eduardo Castro Nallar |eduardo.castro@unab.cl|  
+|Profesor ayudante sección 1  | Ingrid Araya Durán |ingrid.araya.duran@gmail.com|  
+|Profesor ayudante sección 1  |Sandro Valenzuela | sandrolvalenzuelad@gmail.com|  
+|Profesor ayudante sección 2  |Javier Cáceres | ja.caceresmolina@gmail.com|  
+|Profesor ayudante sección 2  |Consuelo Bello | consuelobelloz@gmail.com|  
+
+La segunda parte tiene que ver con leer capítulo 2 del libro *Sequence Alignment
+Methods, Models, Concepts, and Strategies Edited by Michael S. Rosenberg* que se llama *Insertion and Deletion Events, Their Molecular Mechanisms, and Their Impact on Sequence Alignments*. Puedes acceder al capítulo [aquí](https://github.com/bioinf-biotec/labs_bioinf/raw/master/Chapter%202%20from%20Michael%20S.%20Rosenberg-Sequence%20Alignment_%20Methods%2C%20Models%2C%20Concepts%2C%20and%20Strategies-University%20of%20California%20Press%20(2009).pdf).
+
+
