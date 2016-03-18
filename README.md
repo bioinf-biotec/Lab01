@@ -1,3 +1,16 @@
+# Anuncios
+
+**18 MAR 2016**  
+Estimados estudiantes,
+
+Los ayudantes del curso han creado un correo electrónico para la clase donde podrán enviar sus informes de laboratorio.  
+La dirección de correo es <bioinformatica.unab2016@gmail.com>. Envien a este correo los informes hasta el jueves de la semana siguiente a la realización del práctico. La hora límite es las 23:59.  
+En el *Asunto* del correo pongan **Informe de Laboratorio 0x** así nosotros podemos clasificar automáticamente los informes. Para la próxima semana el Asunto del correo debería ser **Informe de Laboratorio 02**.
+
+Saludos
+
+Eduardo
+
 # Estimados estudiantes bienvenidos al repositorio de guías de laboratorio del curso BIT120!
 
 ##### En este repositorio van a encontrar las guías de laboratorio que vamos a utilizar cada viernes durante el curso de bioinformática 2016 para biotecnología UNAB  
