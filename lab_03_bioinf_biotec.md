@@ -58,7 +58,9 @@ En esta parte vamos a utilizar dos programas clásicos para predecir genes [ORFf
 		¿Alguno de los genes predichos por estas herramientas coinciden?
 		¿En qué hebra están codificados?
 		¿Qué tipo de programa es GLIMMER? ¿Ab initio o por homología?
-		Finalmente realiza una búsqueda en [BLAST](http://blast.ncbi.nlm.nih.gov/Blast.cgi) para confirmar que los genes que has predicho existan en GENBANK. Describe los resultados
+Finalmente realiza una búsqueda en [BLAST](http://blast.ncbi.nlm.nih.gov/Blast.cgi) para confirmar que los genes que has predicho existan en GENBANK. 
+	
+		Describe los resultados encontrados con respecto a los genes que encontraste con GLIMMER y ORFfinder
 
 #### Trabajo de laboratorio para la próxima semana
 
