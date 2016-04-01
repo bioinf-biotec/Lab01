@@ -21,7 +21,7 @@ Nota: Si alguno de Uds. no está familiarizado con GitHub, nunca es tarde para a
 
 - [Laboratorio 01 - Bases de datos biológicas](https://github.com/bioinf-biotec/labs_bioinf/blob/master/lab01.md) [(PDF)](https://github.com/bioinf-biotec/labs_bioinf/raw/master/lab_01_bioinf_biotec.pdf)
 - [Laboratorio 02 - Alineamiento de secuencias](https://github.com/bioinf-biotec/labs_bioinf/blob/master/lab02.md) [(PDF)](https://github.com/bioinf-biotec/labs_bioinf/raw/master/lab_02_bioinf_biotec.pdf)
-- Laboratorio 03 - Ensamblaje de genomas y predicción de genes
+- [Laboratorio 03 - Ensamblaje de genomas y predicción de genes](https://github.com/bioinf-biotec/labs_bioinf/blob/master/lab_03_bioinf_biotec.md) [(PDF)](https://github.com/bioinf-biotec/labs_bioinf/raw/master/lab_03_bioinf_biotec.pdf)
 - Laboratorio 04 - Inferencia de árboles filogenéticos
 - Laboratorio 05 - Más allá de una filogenia
 - Laboratorio 06 - Metagenómica del medioambiente y microbioma humano
