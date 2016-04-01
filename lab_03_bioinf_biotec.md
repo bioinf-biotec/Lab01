@@ -1,11 +1,11 @@
 # Laboratorio 03 - Ensamblaje de genomas y predicción de genes
 -------------------------
 
-#### En este laboratorio vamos a familiarizarnos con publicaciones de genomas, y como fueron ensamblados. También vamos a explorar dos métodos de predicción de genes
+#### En este laboratorio vamos a familiarizarnos con publicaciones de genomas, y como estos genomas fueron ensamblados. También vamos a explorar dos métodos de predicción de genes
 
 #### Parte 1: El artículo genoma
 
-Comencemos por ir a la Genomes on Line Database (GOLD) y escoger un genoma de interés
+Hasta hace un tiempo, secuenciar un genoma te garantizaba una publicación importante y era considerado un hito en el estudio de alguna especie. Hoy en día, con los costos decrecientes asociados a un proyecto genoma, publicar un genoma ya no es algo exclusivo sino más bien se está volviendo rutinario en la práctica de un investigador. Comencemos por ir a la Genomes on Line Database (GOLD) y escoger un genoma de interés
 
 - Ve a la base  de datos [GOLD](https://gold.jgi.doe.gov) y busca un genoma eucarionte de interés.  
 
@@ -27,7 +27,7 @@ En este ejemplo continuaremos con el genoma del Bonobo *Pan paniscus*
 
 ![pangeno](https://raw.githubusercontent.com/bioinf-biotec/labs_bioinf/master/pangeno.png)
 
-- Ahora solo tienes que conseguir el artículo y buscar en los materiales y métodos par responder lsa siguientes proguntas. Existen una serie de métricas o estadísticas que se usan para evaluar un ensamblaje de genomas.
+- Ahora solo tienes que conseguir el artículo y buscar en los materiales y métodos para responder las siguientes proguntas. Existen una serie de métricas o estadísticas que se usan para evaluar un ensamblaje de genomas.
 - Sigue [este vínculo](https://en.wikipedia.org/wiki/N50,_L50,_and_related_statistics) y revisa las siguientes N50, L50, y NG50.
 
 ![panstats](https://raw.githubusercontent.com/bioinf-biotec/labs_bioinf/master/panstats.png)
@@ -39,7 +39,7 @@ En este ejemplo continuaremos con el genoma del Bonobo *Pan paniscus*
 		¿Cuál es el genoma que escogiste? Adjunta la referencia.
 		¿Cuál es el N50 del genoma que escogiste? ¿Y el NG50?
 		¿Qué tipo de tecnología se uso para secuenciar el genoma que escogiste?
-		¿Cuántos cromosomas tiene tu organismo y cuál es su tamaño?
+		¿Qué organismo escogiste, cuántos cromosomas tiene tu organismo y cuál es su tamaño?
 
 
 #### Parte 2: Predicción de genes
@@ -58,15 +58,20 @@ En esta parte vamos a utilizar dos programas clásicos para predecir genes [ORFf
 		¿Alguno de los genes predichos por estas herramientas coinciden?
 		¿En qué hebra están codificados?
 		¿Qué tipo de programa es GLIMMER? ¿Ab initio o por homología?
+		Finalmente realiza una búsqueda en [BLAST](http://blast.ncbi.nlm.nih.gov/Blast.cgi) para confirmar que los genes que has predicho existan en GENBANK. Describe los resultados
 
 #### Trabajo de laboratorio para la próxima semana
 
-El trabajo de laboratorio para la próxima semana consta de dos partes. La primera parte ya la tienes lista. Simplemente tienes que responder las preguntas que aparecen a través de esta guía y enviar un informe a <bioinformatica.unab2016@gmail.com>. Envien a este correo los informes hasta el jueves de la semana siguiente a la realización del práctico. La hora límite es las 23:59.
+El trabajo de laboratorio para la próxima semana, como siempre, consta de dos partes. La primera parte ya la tienes lista. Simplemente tienes que responder las preguntas que aparecen a través de esta guía y enviar un informe (ojalá en MarkDown) a <bioinformatica.unab2016@gmail.com>. Envien a este correo los informes hasta el jueves de la semana siguiente a la realización del práctico. La hora límite es las 23:59.  
 En el Asunto del correo pongan Informe de Laboratorio 0x así nosotros podemos clasificar automáticamente los informes. Para la próxima semana el Asunto del correo debería ser Informe de Laboratorio 03.
 
 |**Profesor**|**Nombre**|**Correo electrónico**|  
 | ------------- |:-------------:| -----:|
-|Profesor responsable | Dr. Eduardo Castro Nallar |eduardo.castro@unab.cl|  |Profesor ayudante sección 1  | Ingrid Araya Durán |ingrid.araya.duran@gmail.com|  |Profesor ayudante sección 1  |Sandro Valenzuela | sandrolvalenzuelad@gmail.com|  |Profesor ayudante sección 2  |Javier Cáceres | ja.caceresmolina@gmail.com|  |Profesor ayudante sección 2  |Consuelo Bello | consuelobelloz@gmail.com|  
+|Profesor responsable | Dr. Eduardo Castro Nallar |eduardo.castro@unab.cl|  
+|Profesor ayudante sección 1  | Ingrid Araya Durán |ingrid.araya.duran@gmail.com|  
+|Profesor ayudante sección 1  |Sandro Valenzuela | sandrolvalenzuelad@gmail.com|  
+|Profesor ayudante sección 2  |Javier Cáceres | ja.caceresmolina@gmail.com|  
+|Profesor ayudante sección 2  |Consuelo Bello | consuelobelloz@gmail.com|  
 
 La segunda parte tiene que ver con leer un artículo científico sobre este tema: Mihai Pop. 2013. *Sequence assembly demystified*. **Nature Reviews Genetics** 14, 157-167 | doi:10.1038/nrg3367.   
 
