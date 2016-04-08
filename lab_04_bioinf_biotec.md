@@ -19,7 +19,7 @@ Comencemos por ir a la página donde vamos a trabajar hoy día
 		¿Para qué tipo de usuario está diseñado?
 		Menciona 5 tipos de análsis que se pueden realizar en el portal de acuerdo a la documentación
 
-En este laboratorio vamos a usar los genes SRY que colectaste hace dos clases atrás en el laboratorio de alineamiento. Ve a la parte 1 del laboratorio 2 y ibtén un archivo con secuencias [SRY](https://github.com/bioinf-biotec/labs_bioinf/blob/master/lab02.md)
+En este laboratorio vamos a usar los genes SRY que colectaste hace dos clases atrás en el laboratorio de alineamiento. Ve a la parte 1 del laboratorio 2 y obtén un archivo con secuencias [SRY](https://github.com/bioinf-biotec/labs_bioinf/blob/master/lab02.md)
 
 ![pan](https://raw.githubusercontent.com/bioinf-biotec/labs_bioinf/master/glab2.png)
 
@@ -47,7 +47,11 @@ En el Asunto del correo pongan Informe de Laboratorio 0x así nosotros podemos c
 
 |**Profesor**|**Nombre**|**Correo electrónico**|  
 | ------------- |:-------------:| -----:|
-|Profesor responsable | Dr. Eduardo Castro Nallar |eduardo.castro@unab.cl|  |Profesor ayudante sección 1  | Ingrid Araya Durán |ingrid.araya.duran@gmail.com|  |Profesor ayudante sección 1  |Sandro Valenzuela | sandrolvalenzuelad@gmail.com|  |Profesor ayudante sección 2  |Javier Cáceres | ja.caceresmolina@gmail.com|  |Profesor ayudante sección 2  |Consuelo Bello | consuelobelloz@gmail.com|  
+|Profesor responsable | Dr. Eduardo Castro Nallar |eduardo.castro@unab.cl|  
+|Profesor ayudante sección 1  | Ingrid Araya Durán |ingrid.araya.duran@gmail.com|  
+|Profesor ayudante sección 1  |Sandro Valenzuela | sandrolvalenzuelad@gmail.com|  
+|Profesor ayudante sección 2  |Javier Cáceres | ja.caceresmolina@gmail.com|  
+|Profesor ayudante sección 2  |Consuelo Bello | consuelobelloz@gmail.com|  
 
 La segunda parte tiene que ver con leer un capítulo de libro sobre este tema. Ahora, el capítulo es muy largo para una semana por lo que solo tienen que leer la parte *Step 1* y *Step 5*:  
 
