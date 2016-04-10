@@ -53,8 +53,8 @@ En el Asunto del correo pongan Informe de Laboratorio 0x así nosotros podemos c
 |Profesor ayudante sección 2  |Javier Cáceres | ja.caceresmolina@gmail.com|  
 |Profesor ayudante sección 2  |Consuelo Bello | consuelobelloz@gmail.com|  
 
-La segunda parte tiene que ver con leer un capítulo de libro sobre este tema. Ahora, el capítulo es muy largo para una semana por lo que solo tienen que leer la parte *Step 1* y *Step 5*:  
+~~La segunda parte tiene que ver con leer un capítulo de libro sobre este tema. Ahora, el capítulo es muy largo para una semana por lo que solo tienen que leer la parte *Step 1* y *Step 5*:~~
 
-Puedes acceder al capítulo [aquí](https://github.com/bioinf-biotec/labs_bioinf/raw/master/williams2014.pdf). Recuerda que el contenido de este capítulo es el material para el próximo control de entrada.
+~~Puedes acceder al capítulo [aquí](https://github.com/bioinf-biotec/labs_bioinf/raw/master/williams2014.pdf). Recuerda que el contenido de este capítulo es el material para el próximo control de entrada.~~
 
-
+La segunda parte del laboratorio tiene que ver con leer [este artículo](https://github.com/bioinf-biotec/labs_bioinf/raw/master/tree_thinking.pdf) y el [material suplementario](https://github.com/bioinf-biotec/labs_bioinf/raw/master/Baum.SOM.pdf)  
