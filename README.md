@@ -1,5 +1,22 @@
 # Anuncios
 
+**21 ABRIL 2016**  
+Estimados estudiantes,  
+
+Debido a motivos de carga académica y de visitas internacionales al Centro de Bioinformática, necesito cancelar las clases de mañana viernes 22 de abril. Nos juntaremos de nuevo la próxima semana, el día viernes 29 de abril.  
+
+Saludos  
+
+Eduardo  
+
+Eduardo Castro-Nallar, PhD  
+Center for Bioinformatics and Integrative Biology  
+Universidad Andrés Bello  
+República 239, 8370146, Santiago  
+www.castrolab.org  
++56 2 2770 3520  
++56 9 5644 2354  
+
 **18 MAR 2016**  
 Estimados estudiantes,
 
