@@ -1,4 +1,9 @@
 # Anuncios
+**28 ABRIL 2016**  
+Estimados estudiantes,  
+Nos juntamos mañana a la misma hora, 8:30 am, a nuestra última clase de la sección de genómica del curso de Bioinformática  
+Saludos  
+Eduardo  
 
 **21 ABRIL 2016**  
 Estimados estudiantes,  
