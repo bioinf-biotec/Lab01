@@ -46,7 +46,7 @@ Nota: Si alguno de Uds. no está familiarizado con GitHub, nunca es tarde para a
 - [Laboratorio 03 - Ensamblaje de genomas y predicción de genes](https://github.com/bioinf-biotec/labs_bioinf/blob/master/lab_03_bioinf_biotec.md) [(PDF)](https://github.com/bioinf-biotec/labs_bioinf/raw/master/lab_03_bioinf_biotec.pdf)
 - [Laboratorio 04 - Inferencia de árboles filogenéticos](https://github.com/bioinf-biotec/labs_bioinf/blob/master/lab_04_bioinf_biotec.md) [(PDF)](https://github.com/bioinf-biotec/labs_bioinf/raw/master/lab_04_bioinf_biotec.pdf)
 - ~~Laboratorio 05 - Más allá de una filogenia~~
-- Laboratorio 06 - Metagenómica del medioambiente y microbioma humano
+- [Laboratorio 06 - Metagenómica del medioambiente y microbioma humano](https://github.com/bioinf-biotec/labs_bioinf/blob/master/lab_05_bioinf_biotec.md) [(PDF)](https://github.com/bioinf-biotec/labs_bioinf/raw/master/lab_05_bioinf_biotec.pdf)
 - Laboratorio 07 - Estructura de proteinas
 - Laboratorio 08 - Predicción de estructuras secundarias y terciarias
 - Laboratorio 09 - Búsqueda de proteinas homólogas
