@@ -1,4 +1,4 @@
-# Laboratorio 04 - Metagenómica
+# Laboratorio 05 - Metagenómica
 -------------------------
 
 #### En este laboratorio vamos a familiarizarnos con la plataforma MG-RAST para el análisis de metagenomas.  
@@ -55,7 +55,11 @@ En el Asunto del correo pongan Informe de Laboratorio 0x así nosotros podemos c
 
 |**Profesor**|**Nombre**|**Correo electrónico**|  
 | ------------- |:-------------:| -----:|
-|Profesor responsable | Dr. Eduardo Castro Nallar |eduardo.castro@unab.cl|  |Profesor ayudante sección 1  | Ingrid Araya Durán |ingrid.araya.duran@gmail.com|  |Profesor ayudante sección 1  |Sandro Valenzuela | sandrolvalenzuelad@gmail.com|  |Profesor ayudante sección 2  |Javier Cáceres | ja.caceresmolina@gmail.com|  |Profesor ayudante sección 2  |Consuelo Bello | consuelobelloz@gmail.com|  
+|Profesor responsable | Dr. Eduardo Castro Nallar |eduardo.castro@unab.cl|  
+|Profesor ayudante sección 1  | Ingrid Araya Durán |ingrid.araya.duran@gmail.com|  
+|Profesor ayudante sección 1  |Sandro Valenzuela | sandrolvalenzuelad@gmail.com|  
+|Profesor ayudante sección 2  |Javier Cáceres | ja.caceresmolina@gmail.com|  
+|Profesor ayudante sección 2  |Consuelo Bello | consuelobelloz@gmail.com|  
 
 La segunda parte tiene que ver con leer el artículo Jansson J, Field D, Fierer N, et al. ***Unlocking the potential of metagenomics through replicated experimental design***. Nature Publishing Group. 2012;30(6):513-520. doi:10.1038/nbt.2235.  
 
