@@ -48,7 +48,7 @@ Nota: Si alguno de Uds. no está familiarizado con GitHub, nunca es tarde para a
 - ~~Laboratorio 05 - Más allá de una filogenia~~
 - [Laboratorio 06 - Metagenómica del medioambiente y microbioma humano](https://github.com/bioinf-biotec/labs_bioinf/blob/master/lab_05_bioinf_biotec.md) [(PDF)](https://github.com/bioinf-biotec/labs_bioinf/raw/master/lab_05_bioinf_biotec.pdf)
 - [Laboratorio 07 - Estructura de proteinas](https://github.com/bioinf-biotec/labs_bioinf/raw/master/lab_07_bioinf_biotec.pdf)
-- [Laboratorio 08 - Predicción de estructuras protéicas](https://github.com/bioinf-biotec/labs_bioinf/raw/master/lab_08_bioinf_biotec.pdf). Archivos [(ZIP)](https://github.com/bioinf-biotec/labs_bioinf/raw/master/archivos_lab8.zip). Cuestionario [(PDF)](https://github.com/bioinf-biotec/labs_bioinf/raw/master/lab_08_bioinf_biotec_cuestionario.pdf)
+- [Laboratorio 08 - Modelamiento por homología](https://github.com/bioinf-biotec/labs_bioinf/raw/master/lab_08_bioinf_biotec.pdf). Archivos [(ZIP)](https://github.com/bioinf-biotec/labs_bioinf/raw/master/archivos_lab8.zip). Cuestionario [(PDF)](https://github.com/bioinf-biotec/labs_bioinf/raw/master/lab_08_bioinf_biotec_cuestionario.pdf)
 - Laboratorio 09 - Búsqueda de proteinas homólogas
 - Laboratorio 10 - Bioinformática de enzimas
 - Laboratorio 11 - Simulación molecular
