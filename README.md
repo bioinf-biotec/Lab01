@@ -64,4 +64,4 @@ Conductas aceptables: Los estudiantes pueden requerir ayuda del profesor y de lo
 Conductas inaceptables: Los estudiantes no pueden, bajo ninguna circunstancia, presentar algo como suyo sin que haya sido así, copiar contenidos de un libro, otra tarea o artículo. El plagio es una violación de la honestidad intelectual y consiste en hacer parecer tuyo algo que no es de tu autoría. Está prohibido hacer trampa, es decir, tratar de recibir ayudas o ventajas no contempladas por el profesor. Está prohibido duplicar total o parcialmente el trabajo de otro individuo. En esta clase todos los estudiantes son adultos y responsables. No se necesita más gente deshonesta o moralmente flexible.
 
 #Notas
-![Notas](https://github.com/bioinf-biotec/labs_bioinf/raw/master/notas.png)
+![Notas](https://github.com/bioinf-biotec/labs_bioinf/raw/master/Tabla-notas-9Agosto.pdf)
