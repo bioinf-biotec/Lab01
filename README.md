@@ -49,7 +49,7 @@ Nota: Si alguno de Uds. no está familiarizado con GitHub, nunca es tarde para a
 - [Laboratorio 06 - Metagenómica del medioambiente y microbioma humano](https://github.com/bioinf-biotec/labs_bioinf/blob/master/lab_05_bioinf_biotec.md) [(PDF)](https://github.com/bioinf-biotec/labs_bioinf/raw/master/lab_05_bioinf_biotec.pdf)
 - [Laboratorio 07 - Estructura de proteinas](https://github.com/bioinf-biotec/labs_bioinf/raw/master/lab_07_bioinf_biotec.pdf)
 - [Laboratorio 08 - Modelamiento por homología](https://github.com/bioinf-biotec/labs_bioinf/raw/master/lab_08_bioinf_biotec.pdf). Archivos [(ZIP)](https://github.com/bioinf-biotec/labs_bioinf/raw/master/archivos.zip). Cuestionario [(PDF)](https://github.com/bioinf-biotec/labs_bioinf/raw/master/lab_08_bioinf_biotec_cuestionario.pdf)
-- Laboratorio 09 - Búsqueda de proteinas homólogas
+- [Laboratorio 09 - Acoplamiento Molecular](https://github.com/bioinf-biotec/labs_bioinf/raw/master/lab_09_bioinf_biotec.pdf)
 - Laboratorio 10 - Bioinformática de enzimas
 - Laboratorio 11 - Simulación molecular
 - Laboratorio 12 - Ingeniería de proteinas
@@ -64,4 +64,4 @@ Conductas aceptables: Los estudiantes pueden requerir ayuda del profesor y de lo
 Conductas inaceptables: Los estudiantes no pueden, bajo ninguna circunstancia, presentar algo como suyo sin que haya sido así, copiar contenidos de un libro, otra tarea o artículo. El plagio es una violación de la honestidad intelectual y consiste en hacer parecer tuyo algo que no es de tu autoría. Está prohibido hacer trampa, es decir, tratar de recibir ayudas o ventajas no contempladas por el profesor. Está prohibido duplicar total o parcialmente el trabajo de otro individuo. En esta clase todos los estudiantes son adultos y responsables. No se necesita más gente deshonesta o moralmente flexible.
 
 #Notas
-![Notas](https://github.com/bioinf-biotec/labs_bioinf/raw/master/Tabla-notas-9Agosto.pdf)
+[Notas (PDF)](https://github.com/bioinf-biotec/labs_bioinf/raw/master/Tabla-notas-9Agosto.pdf)
