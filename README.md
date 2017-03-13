@@ -1,3 +1,20 @@
+###Lunes 13 de marzo de 2017  
+
+Estimados estudiantes,
+
+Les recuerdo que para la próxima semana tenemos nuestro primer control de entrada. El control va a evaluar las dos lecturas que tenemos para el viernes:  
+
+- El capítulo 2 del libro *Sequence - Evolution - Function: Computational Approaches in Comparative Genomics* que se llama *Evolutionary Concept in Genetics and Genomics*. Puedes acceder al capítulo gratis a través de NCBI --> Bookshelf [aquí](http://www.ncbi.nlm.nih.gov/books/NBK20255/?report=reader).
+
+- El siguiente artículo científico --> [Gabaldón, T., & Koonin, E. V. (2013). *Functional and evolutionary implications of gene orthology*. Nature Reviews Genetics, 14(5), 360-366.](https://github.com/bioinf-biotec/labs_bioinf/raw/master/Gabaldón_2013_Nat%20Rev%20Genet.pdf)  
+
+Por favor avísenle a sus compañeros ya que no todos los estudiantes tienen registrado un correo electrónico en la plataforma de la universidad.  
+
+Nos vemos,  
+
+Eduardo
+
+
 ## Estimados estudiantes bienvenidos al repositorio de guías de laboratorio del curso BIT120
 
 ##### En este repositorio van a encontrar las guías de laboratorio que vamos a utilizar cada viernes durante el curso de bioinformática 2017 para biotecnología UNAB  
