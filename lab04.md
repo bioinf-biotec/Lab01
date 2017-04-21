@@ -19,7 +19,7 @@ Comencemos por ir a la página donde vamos a trabajar hoy día
 		¿Para qué tipo de usuario está diseñado?
 		Menciona 5 tipos de análsis que se pueden realizar en el portal de acuerdo a la documentación
 
-En este laboratorio vamos a usar los genes SRY que colectaste hace dos clases atrás en el laboratorio de alineamiento. Ve a la parte 1 del laboratorio 2 y ibtén un archivo con secuencias [SRY](https://github.com/bioinf-biotec/labs_bioinf/blob/master/lab02.md)
+En este laboratorio vamos a usar los genes SRY que colectaste hace dos clases atrás en el laboratorio de alineamiento. Ve a la parte 1 del laboratorio 2 y obtén un archivo con secuencias [SRY](https://github.com/bioinf-biotec/labs_bioinf/blob/master/lab02.md)
 
 ![pan](https://raw.githubusercontent.com/bioinf-biotec/labs_bioinf/master/glab2.png)
 
