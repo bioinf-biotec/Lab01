@@ -1,3 +1,5 @@
+![unab-cbib](https://github.com/bioinf-biotec/labs_bioinf/blob/master/images/unabcbibhorizontal.png?raw=true)
+
 # Laboratorio 01 - Bases de datos biológicas
 -------------------------
 

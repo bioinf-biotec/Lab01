@@ -2,12 +2,12 @@
 
 ## Estimados estudiantes, bienvenidos al repositorio de guías de laboratorio del curso BIOL311
 
-##### En este repositorio van a encontrar las guías de laboratorio que vamos a utilizar cada jueves durante el curso de bioinformática UNAB 2018/1.  
-##### Las guías van a ir apareciendo en la medida que vayamos avanzando con el programa del curso. Por cierto el programa del curso lo pueden encontrar [aquí]().  
+##### En este repositorio van a encontrar las guías de laboratorio que vamos a utilizar cada jueves durante el curso de bioinformática para ingeniería en biotecnología y licenciatura en biología UNAB 2018/1.
+##### Las guías van a ir apareciendo en la medida que vayamos avanzando con el programa del curso. Por cierto el programa del curso lo pueden encontrar [aquí](https://github.com/bioinf-biotec/clases_bioinf/raw/master/BIOL311%20BIOT_BIOL_Syllabus_FINAL.pdf).
 ##### Al final de cada guía van a encontrar el trabajo de laboratorio que deberán entregar a la semana siguiente, además del material de lectura para el siguiente control de entrada.
 ##### Para resolver dudas acerca del trabajo práctico fuera del horario del curso, puedes escribir al ayudante: Katterinne Mendez (mendez.katterinne@gmail.com).
 
-Nota: Si alguno de Uds. no está familiarizado con GitHub, nunca es tarde para aprender algo nuevo y útil. En Google hay información en exceso, siendo la más útil la que está en inglés, por ejemplo [aquí](https://guides.github.com). También pueden encontrar información en español, por ejemplo [aquí](http://conociendogithub.readthedocs.org/en/latest/data/dinamica-de-uso/).
+Nota: Si alguno de Uds. no está familiarizado con GitHub, nunca es tarde para aprender algo nuevo y útil. En Google hay información en exceso, siendo la más útil la que está en inglés, por ejemplo [aquí](https://guides.github.com) y [aquí](http://rogerdudler.github.io/git-guide/). También pueden encontrar información en español, por ejemplo [aquí](http://conociendogithub.readthedocs.org/en/latest/data/dinamica-de-uso/).
 
 - **[Laboratorio 01 - Bases de datos biológicas]()**
 
