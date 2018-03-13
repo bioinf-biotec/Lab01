@@ -1,4 +1,4 @@
-## Estimados estudiantes bienvenidos al repositorio de guías de laboratorio del curso BIT120
+## Estimados estudiantes bienvenidos al repositorio de guías de laboratorio del curso BIOL311
 
 ##### En este repositorio van a encontrar las guías de laboratorio que vamos a utilizar cada viernes durante el curso de bioinformática para biotecnología UNAB 2018  
 ##### Las guías van a ir apareciendo en la medida que vayamos avanzando con el programa del curso. Por cierto el programa del curso lo pueden encontrar [aquí]().  
