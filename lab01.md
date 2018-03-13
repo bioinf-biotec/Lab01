@@ -73,7 +73,6 @@ Ahora, desde el website de GO, lee la documentación para poder responder las si
 
 ![go](https://github.com/bioinf-biotec/labs_bioinf/blob/master/images/go.png?raw=true)
 
-
 #### Parte 3: Descargando secuencias, convirtiendo formatos
 
 De alguna u otra forma, probablemente ya has tenido algún tipo de interacción con NCBI descargando secuencias nucleotídicas o aminoacídicas. En esta sección nos vamos a enfocar en descargar secuencias y sus números de acceso.
@@ -90,9 +89,9 @@ Ve a la página de [NCBI](http://www.ncbi.nlm.nih.gov) y selecciona la base de d
 		¿Cuál es el número de acceso?
 		Descarga la secuencia en formato fasta y agrégala a tu informe.
 
-![gapdh](https://raw.githubusercontent.com/bioinf-biotec/labs_bioinf/master/gapdh.png)
+![gapdh](https://github.com/bioinf-biotec/labs_bioinf/blob/master/images/gapdh.png?raw=true)
 
-Como nota adicional, la interfaz gráfica de NCBI no es de mucha ayuda cuando tienes que descargar muchas secuencias o genomas completos. En este caso se recomienda usar el portal FTP de NCBI: [ftp.ncbi.nlm.nih.gov](ftp.ncbi.nlm.nih.gov)
+Como nota adicional, la interfaz gráfica de NCBI no es de mucha ayuda cuando tienes que descargar muchas secuencias o genomas completos. En este caso se recomienda usar el portal FTP de NCBI: [ftp.ncbi.nlm.nih.gov](ftp://ftp.ncbi.nlm.nih.gov/)
 
 Para finalizar esta parte, vamos a convertir la secuencia que bajaste a otro formato. Existen muchos formatos de secuencias porque responden a distintos atributos que sus autores consideraron importantes de registrar y también por razones históricas. Uno de los formatos más usados es el FASTA, sin embargo en filogenética uno súper popular y requerido por muchos programas es el formato NEXUS.
 
@@ -100,25 +99,26 @@ Ve a la página de [Seqret](http://www.ebi.ac.uk/Tools/sfc/emboss_seqret/) del E
 
 Adjunta la secuencia en formato nexus a tu informe.
 
-![nexus](https://raw.githubusercontent.com/bioinf-biotec/labs_bioinf/master/nexus.png)
+![nexus](https://github.com/bioinf-biotec/labs_bioinf/blob/master/images/nexus.png?raw=true)
+
 #### Parte 4: Buscando artículos científicos en linea
 
 Buscar literatura relativa a un tema científico no tiene que ser tedioso ni complicado. Al contrario, conociendo herramientas dedicadas para esto puede hacerte la vida muy simple.
 
 En general el primer impulso es buscar en los clásicos buscadores directamente. Sin embargo el uso de alertas, tablas de contenido electrónicas, y por sobre todo modificadores de búsquedas en linea hacen que estar actualizado en tu tema de investigación sea algo instántaneo.
 
-- Crea una cuenta gratuita en NCBI y Google Scholar  
+- Crea una cuenta gratuita en NCBI y Google Scholar.
 - Escoge un área de investigación, e.g., bacterial genomics, human genetics, etc.
-- Ahora crea una alerta de búsqueda en NCBI PubMed
+- Ahora crea una alerta de búsqueda en NCBI PubMed.
 
 ##### En tu informe de laboratorio incluye un pantallazo de tu alerta. Si es que recibes una alerta en tu correo electrónico, también puedes adjuntarla en tu informe.
 
 Las páginas de búsqueda clásicas son:
 
-- [Pubmed](http://pubmed.com), [Highwire](http://highwire.stanford.edu/cgi/search), [Google Scholar](https://scholar.google.com), [Scopus](http://www.scopus.com) para artículos científicos  
-- [USPTO](http://www.uspto.gov), [ESPACENET](http://www.epo.org/searching-for-patents/technical/espacenet.html), [INAPI](http://www.inapi.cl/portal/institucional/600/w3-propertyvalue-877.html) para patentes. Google Scholar también permite filtrar resultados por patentes  
+- [Pubmed](http://pubmed.com), [Highwire](http://highwire.stanford.edu/cgi/search), [Google Scholar](https://scholar.google.com), [Scopus](http://www.scopus.com) para artículos científicos.
+- [USPTO](http://www.uspto.gov), [ESPACENET](http://www.epo.org/searching-for-patents/technical/espacenet.html), [INAPI](http://www.inapi.cl/portal/institucional/600/w3-propertyvalue-877.html) para patentes. Google Scholar también permite filtrar resultados por patentes.
 
-Ahora vamos a la página de la revista [Nature Genetics](http://www.nature.com/ng/index.html). El obejtivo es configurar una tabla de contenidos electrónica, i.e., que cada vez que la revista publique un número nuevo te llegue la tabla de contenidos de ese número a tu correo electrónico. Puedes encontrar el vínculo en la esquina superior derecha, bajo el *current issue*, E-alert
+Ahora vamos a la página de la revista [Nature Genetics](http://www.nature.com/ng/index.html). El obejtivo es configurar una tabla de contenidos electrónica, i.e., que cada vez que la revista publique un número nuevo te llegue la tabla de contenidos de ese número a tu correo electrónico. Puedes encontrar el vínculo en la esquina superior derecha, ***E-alert***.
 
 ![ngen](https://raw.githubusercontent.com/bioinf-biotec/labs_bioinf/master/ngen.png)
 
