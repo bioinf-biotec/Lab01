@@ -3,7 +3,7 @@
 # Laboratorio 01 - Bases de datos biológicas
 -------------------------
 
-#### En este laboratorio vamos a explorar bases de datos biológicas a través de un ejemplo guiado. La idea de este práctico es que uses y te interiorices con la mayor parte de las herramientas que las bases de datos te pueden ofrecer. Sigue las instrucciones y responde las preguntas. tus respuestas van a formar parte de la nota de laboratorio 1.
+#### En este laboratorio vamos a explorar bases de datos biológicas a través de un ejemplo guiado. La idea de este práctico es que uses y te interiorices con la mayor parte de las herramientas que las bases de datos te pueden ofrecer. Sigue las instrucciones y responde las preguntas. tus respuestas van a formar parte de la nota de laboratorio 01.
 
 #### Parte 1: Enfermedades genéticas y genes
 
@@ -13,7 +13,7 @@
 
 ##### Ve a la NCBI Gene database ([http://www.ncbi.nlm.nih.gov/gene](http://www.ncbi.nlm.nih.gov/gene)) y busca el gen que está involucrado en la enfermedad seleccionada. Algunos ejemplos pueden ser CFTR, SGCG, IDDM3, HBB. También puedes tratar directamente con el nombre de una enfermedad o condición (e.g., duchenne muscular dystrophy).   
 
-![gene](https://raw.githubusercontent.com/bioinf-biotec/labs_bioinf/master/gene.png)
+![gene](https://github.com/bioinf-biotec/labs_bioinf/blob/master/images/gene.png?raw=true)
 
 La base de datos de genes de NCBI concentra información de distintas fuentes para producir una "ficha" con vínculos con otras bases de datos.
 
@@ -36,10 +36,10 @@ De tus conocimientos de genética básica, probablemente ya sabes que un gen pue
 
 #### Parte 2: Rutas y procesos metabólicos
 
-Los genes generalmente codifican proteinas, las cuales a su vez están involucradas en rutas y procesos metabólicos. Existen bases de datos especializadas que compilan información referente a metabolismo. Las más populares son [BioCyc](http://biocyc.org), [REACTOME](http://www.reactome.org), y [Kegg](http://www.kegg.jp). Otras bases de datos agrupan proteinas involucradas en procesos biológicos más gruesos como [Clusters of Orthologous Groups (COGs)](http://www.ncbi.nlm.nih.gov/pubmed/25428365) o [Gene Ontology (GO)](http://geneontology.org). Visita los vínculos a estas páginas y familiarizate con sus funcionalidades (no más de 10 minutos).  
+Los genes generalmente codifican proteinas, las cuales a su vez están involucradas en rutas y procesos metabólicos. Existen bases de datos especializadas que compilan información referente a metabolismo. Las más populares son [BioCyc](http://biocyc.org), [REACTOME](http://www.reactome.org), y [Kegg](http://www.kegg.jp). Otras bases de datos agrupan proteinas involucradas en procesos biológicos más gruesos como [Clusters of Orthologous Groups (COGs)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4383993/) o [Gene Ontology (GO)](http://geneontology.org). Visita los vínculos a estas páginas y familiarizate con sus funcionalidades (no más de 10 minutos).  
 Ahora sigamos terabajando con el gen que escogiste en la parte 1. Una vez en la página principal de Kegg, haz clic en el vínculo Kegg gene. Busca el gen que escogiste en Kegg. Tienes que ingresar el código del organismo (*Homo sapiens* es hsa) y el nombre del gen en minúscula (por ejemplo: gapdh) de forma que para buscar la gliceraldehido-3-fosfato deshidrogenasa deberías ingresar hsa:gapdh.
 
-![kegg](https://raw.githubusercontent.com/bioinf-biotec/labs_bioinf/master/kegg.png)
+![kegg](https://github.com/bioinf-biotec/labs_bioinf/blob/master/images/kegg.png?raw=true)
 
 Después de presionar *entry* una nueva ventana se va a abrir donde encontrarás un montón de información. Revisa esta información para responder las siguientes preguntas:
 
