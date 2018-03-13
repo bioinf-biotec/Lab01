@@ -9,7 +9,7 @@
 
 Nota: Si alguno de Uds. no está familiarizado con GitHub, nunca es tarde para aprender algo nuevo y útil. En Google hay información en exceso, siendo la más útil la que está en inglés, por ejemplo [aquí](https://guides.github.com) y [aquí](http://rogerdudler.github.io/git-guide/). También pueden encontrar información en español, por ejemplo [aquí](http://conociendogithub.readthedocs.org/en/latest/data/dinamica-de-uso/).
 
-- **[Laboratorio 01 - Bases de datos biológicas]()**
+- **[Laboratorio 01 - Bases de datos biológicas](https://github.com/bioinf-biotec/labs_bioinf/blob/master/lab01.md)**
 
 
 ## Código de honor o Reglas del juego
