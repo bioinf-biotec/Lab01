@@ -120,7 +120,7 @@ Las páginas de búsqueda clásicas son:
 
 Ahora vamos a la página de la revista [Nature Genetics](http://www.nature.com/ng/index.html). El obejtivo es configurar una tabla de contenidos electrónica, i.e., que cada vez que la revista publique un número nuevo te llegue la tabla de contenidos de ese número a tu correo electrónico. Puedes encontrar el vínculo en la esquina superior derecha, ***E-alert***.
 
-![ngen](https://raw.githubusercontent.com/bioinf-biotec/labs_bioinf/master/ngen.png)
+![ngen](https://github.com/bioinf-biotec/labs_bioinf/blob/master/images/ngen_ealert.png?raw=true)
 
 ##### En tu informe agrega un pantallazo del correo electrónico de confirmación a la suscripción.
 
@@ -158,10 +158,10 @@ Puedes seguir practicando tus habilidades para buscar artículos científicos. L
 
 #### Trabajo de laboratorio para la próxima semana
 
-El trabajo de laboratorio para la próxima semana consta de dos partes. La primera parte ya la tienes parcialmente lista. Simplemente tienes que responder las preguntas que aparecen a través de esta guía y enviar un informe a tu ayudante con copia a eduardo.castro@unab.cl. Recuerda que si te la juegas y entregas el informe como documento Markdown tendrás 5 décimas adicionales en tu nota. Información sobre cómo escribir documentos Markdown está en la web por ejemplo [aquí](http://cesarhdz.com/articulos/escribir-en-markdown#que-es-markdown) o [aquí en inglés](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+El trabajo de laboratorio para la próxima semana consta de dos partes. La primera parte ya la tienes parcialmente lista. Simplemente tienes que responder las preguntas que aparecen a través de esta guía y enviar un informe a tu ayudante (Katterinne Mendez: mendez.katterinne@gmail.com). Recuerda que si te la juegas y entregas el informe como documento Markdown tendrás 5 décimas adicionales en tu nota. Información sobre cómo escribir documentos Markdown está en la web por ejemplo [aquí](http://cesarhdz.com/articulos/escribir-en-markdown#que-es-markdown) o [aquí en inglés](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
 La segunda parte del trabajo de laboratorio tiene que ver con leer un capítulo de libro y un artículo científico. Estos serán evaluados la próxima clase como parte del primer control de laboratorio.
 
 - El capítulo 2 del libro *Sequence - Evolution - Function: Computational Approaches in Comparative Genomics* que se llama *Evolutionary Concept in Genetics and Genomics*. Puedes acceder al capítulo gratis a través de NCBI --> Bookshelf [aquí](http://www.ncbi.nlm.nih.gov/books/NBK20255/?report=reader).
 
-- El siguiente artículo científico --> [Gabaldón, T., & Koonin, E. V. (2013). *Functional and evolutionary implications of gene orthology*. Nature Reviews Genetics, 14(5), 360-366.](https://github.com/bioinf-biotec/labs_bioinf/raw/master/Gabaldón_2013_Nat%20Rev%20Genet%20copy.pdf)
+- El siguiente artículo científico --> [Gabaldón, T., & Koonin, E. V. (2013). *Functional and evolutionary implications of gene orthology*. Nature Reviews Genetics, 14(5), 360-366.](https://github.com/bioinf-biotec/labs_bioinf/raw/master/Gabaldón_2013_NatRevGenet.pdf)
