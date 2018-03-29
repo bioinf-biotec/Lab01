@@ -13,6 +13,7 @@ Nota: Si alguno de Uds. no está familiarizado con GitHub, nunca es tarde para a
 
 - **[Laboratorio 02 - Alineamiento de secuencias](https://github.com/bioinf-biotec/labs_bioinf/blob/master/lab02.md)**
 
+- **[Laboratorio 03 - Ensamblaje de genomas y predicción de genes](https://github.com/bioinf-biotec/labs_bioinf/blob/master/lab03.md)**
 
 ## Código de honor o Reglas del juego
 
