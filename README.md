@@ -15,6 +15,8 @@ Nota: Si alguno de Uds. no está familiarizado con GitHub, nunca es tarde para a
 
 - **[Laboratorio 03 - Ensamblaje de genomas y predicción de genes](https://github.com/bioinf-biotec/labs_bioinf/blob/master/lab03.md)**
 
+- **[Laboratorio 04 - Filogenética Molecular](https://github.com/bioinf-biotec/labs_bioinf/blob/master/lab04.md)**
+
 ## Código de honor o Reglas del juego
 
 Los trabajos de laboratorio están diseñados para que cada estudiante trabaje de manera individual. El profesor y los ayudantes tienen una politica de ***tolerancia cero*** con respecto al plagio, copia, apropiación indebida de un trabajo o sus partes, o cualquier tipo de ayuda no contemplada en las conductas aceptables.
