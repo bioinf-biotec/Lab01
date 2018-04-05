@@ -25,7 +25,7 @@ En este laboratorio vamos a usar los genes SRY que colectaste hace dos clases at
 
 ![glab2](https://github.com/bioinf-biotec/labs_bioinf/blob/master/images/glab2.png?raw=true)
 
-De todas maneras puedes descargar el archivo listo [aquí](https://github.com/bioinf-biotec/labs_bioinf/blob/master/primers.fasta)
+De todas maneras puedes descargar el archivo listo [aquí](https://github.com/bioinf-biotec/labs_bioinf/blob/master/SRY_mRNA.fasta)
 
 - Tu misión es inferir dos filogenias
 - Una con ProbCons, GBlocks, MrBayes, y TreeDyn
