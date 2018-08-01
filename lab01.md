@@ -1,35 +1,48 @@
 # Laboratorio 01 - Bases de datos biológicas ![](https://github.com/bioinf-biotec/labs_bioinf/blob/master/images/big-data.png?raw=true)
 
-#### En este laboratorio vamos a explorar bases de datos biológicas a través de un ejemplo guiado. La idea de este práctico es que uses y te interiorices con la mayor parte de las herramientas que las bases de datos te pueden ofrecer. Sigue las instrucciones y responde las preguntas. tus respuestas van a formar parte de la nota de laboratorio 01.
+#### En este laboratorio vamos a explorar bases de datos biológicas a través de un ejemplo guiado. El objetivo del práctico es que uses y te interiorices con la mayor parte de las herramientas que las bases de datos te pueden ofrecer. Sigue las instrucciones y responde las preguntas. Tus respuestas van a formar parte de la nota de laboratorio 01.
 
-#### Parte 1: Enfermedades genéticas y genes
+### Parte 1: Enfermedades genéticas y genes
 
-- Busca una enfermedad ***genética*** humana en alguna base de datos de literatura, i.e., [Pubmed](http://www.ncbi.nlm.nih.gov/pubmed/), [Google Scholar] (https://scholar.google.com), o en bases de datos de enfermedades genéticas, e.g., [OMIM](http://www.omim.org)  
-- Describe en no más de 4 lineas la causa y lo que provoca la enfermedad que escogiste  
-- ¿Cuál(es) gene(s) han sido relacionados con esta enfermedad?  
+- Busca una enfermedad **genética** humana en alguna base de datos de literatura, i.e., [Pubmed](http://www.ncbi.nlm.nih.gov/pubmed/), [Google Scholar] (https://scholar.google.com), o en bases de datos de enfermedades genéticas, e.g., [OMIM](http://www.omim.org).
+
+---
+
+1. Nombra y describe brevemente la enfermedad que escogiste, qué la causa y cuáles son sus consecuencias.
+2. ¿Cuál(es) gene(s) han sido relacionados con esta enfermedad?
+
+---
 
 ##### Ve a la NCBI Gene database ([http://www.ncbi.nlm.nih.gov/gene](http://www.ncbi.nlm.nih.gov/gene)) y busca el gen que está involucrado en la enfermedad seleccionada. Algunos ejemplos pueden ser CFTR, SGCG, IDDM3, HBB. También puedes tratar directamente con el nombre de una enfermedad o condición (e.g., duchenne muscular dystrophy).   
 
-![gene](https://github.com/bioinf-biotec/labs_bioinf/blob/master/images/gene.png?raw=true)
+![ncbi_gene1]()
 
-La base de datos de genes de NCBI concentra información de distintas fuentes para producir una "ficha" con vínculos con otras bases de datos.
+La base de datos de genes de NCBI concentra información de distintas fuentes para producir una "ficha" con vínculos a otras bases de datos.
 
-**Responde:**  
+![ncbi_gene2]()
+
+---  
 		
-		¿Tiene nombres alternativos el gen?  
-		¿En qué cromosoma está? ¿Cuántos exones tiene? ¿Cuántas isoformas de transcritos?  
-		¿Qué tipo de proteina es codificada por este gen? ¿Cuál es su número EC?  
-		¿Qué genes están inmediatamente río arriba/abajo?  
+3. ¿Tiene nombres alternativos el gen?  
+4. ¿En qué cromosoma está? ¿Cuántos exones tiene? ¿Cuántas isoformas de transcritos?  
+5. ¿Qué tipo de proteina es codificada por este gen? ¿Cuál es su número EC?  
+6. ¿Qué genes están inmediatamente río arriba/abajo?  
+
+---
 
 De tus conocimientos de genética básica, probablemente ya sabes que un gen puede tener múltiples alelos, y a su vez estos alelos pueden estar asociados a distintos fenotipos, e.g., enfermedades, severidad, etc. Lista cuántas variantes génicas tiene tu gen y a qué tipo de sustituciones corresponden (pista: revisa la sección de Variation en la página de tu gen).
 
+---
+
 **Responde:**  
 		
-		¿Cuál es la longitud de tu gen?
-		¿Cuántas variantes de tu gen hay descritas y en qué posiciones?  
-		¿Las sustituciones corresponden a cambios sinónimos o no sinónimos?  
-		¿Existen ortólogos de tu gen en otras especies? ¿Cuántos?  
-		¿Y paralógos? ¿Hay pseudogenes? ¿Cuántos?  
+7. ¿Cuál es la longitud de tu gen?
+8. ¿Cuántas variantes de tu gen hay descritas y en qué posiciones?  
+9. ¿Las sustituciones corresponden a cambios sinónimos o no sinónimos?  
+10. ¿Existen ortólogos de tu gen en otras especies? ¿Cuántos?  
+11. ¿Y paralógos? ¿Hay pseudogenes? ¿Cuántos?  
+
+---
 
 #### Parte 2: Rutas y procesos metabólicos
 
