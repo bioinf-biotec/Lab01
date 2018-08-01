@@ -16,7 +16,6 @@ Nota: Si alguno de Uds. no está familiarizado con GitHub, nunca es tarde para a
  
 - Laboratorio 05 - Metagenómica
 
-
 ### Informes de laboratorio
 
 Las guías de laboratorio contienen las instrucciones para desarrollar la actividad práctica. Además, incluyen varias preguntas que deben responder. Sus respuestas serán evaluadas, lo que corresponderá a la nota de informes de laboratorio.
@@ -35,7 +34,7 @@ A partir de la segunda clase (viernes 10 de agosto), se hará un control de entr
 
 * Capítulo 2 del libro "_Sequence - Evolution - Function: Computational Approaches in Comparative Genomics_". El capítulo se titula **"_Evolutionary Concept in Genetics and Genomics_"**. Puedes acceder al capítulo gratis a través de NCBI [AQUÍ](https://www.ncbi.nlm.nih.gov/books/NBK20255/?report=reader).
 
-* El siguiente artículo científico: Gabaldón, T., & Koonin, E. V. (2013). **Functional and evolutionary implications of gene orthology**. Nature Reviews Genetics, 14(5), 360-366. Descarga el PDF [AQUÍ]().
+* El siguiente artículo científico: Gabaldón, T., & Koonin, E. V. (2013). **Functional and evolutionary implications of gene orthology**. Nature Reviews Genetics, 14(5), 360-366. Descarga el PDF [AQUÍ](https://github.com/bioinf-biotec/labs_bioinf/raw/master/documents/Gabaldón_2013_NatRevGenet.pdf).
 
 ### Código de honor o reglas del juego
 
