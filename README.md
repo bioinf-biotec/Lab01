@@ -1,6 +1,6 @@
-## Taller del curso BIOL311
+## ![](https://github.com/bioinf-biotec/labs_bioinf/blob/master/images/laptop.png?raw=true) Taller del curso BIOL311
 
-##### Estimados estudiantes, bienvenidos al repositorio de guías de laboratorio En este repositorio van a encontrar las guías de laboratorio que vamos a utilizar cada viernes durante el curso de Bioinformática para Ingeniería en Biotecnología y Licenciatura en Biología UNAB 2018/2. Las guías van a ir apareciendo en la medida que vayamos avanzando con el programa del curso.
+##### Estimados estudiantes, bienvenidos al repositorio de la clase práctica del curso de Bioinformática para Ingeniería en Biotecnología y Licenciatura en Biología UNAB 2018/2. Aquí van a encontrar las guías de laboratorio que vamos a seguir cada viernes, información sobre los informes de laboratorio, controles de entrada, y lecturas.
 
 Nota: Si alguno de Uds. no está familiarizado con GitHub, nunca es tarde para aprender algo nuevo y útil. En Google hay información en exceso, siendo la más útil la que está en inglés, por ejemplo [aquí](https://guides.github.com) y [aquí](http://rogerdudler.github.io/git-guide/). También pueden encontrar información en español, por ejemplo [aquí](http://conociendogithub.readthedocs.org/en/latest/data/dinamica-de-uso/).
 
@@ -31,7 +31,7 @@ Los informes de laboratorio deben ser enviados en un documento word, PDF, o Mark
 
 A partir de la segunda clase (viernes 10 de agosto), se hará un control de entrada al inicio de cada práctico acerca de la lectura indicada una semana antes. El contenido de las lecturas es parte de los aprendizajes esperados del curso, por lo que, también puede ser evaluado en las solemnes. A continuación puedes revisar las lecturas asignadas cada semana.
 
-##### Clase del día 10 de agosto
+#### Clase del día 10 de agosto
 
 * Capítulo 2 del libro "_Sequence - Evolution - Function: Computational Approaches in Comparative Genomics_". El capítulo se titula **"_Evolutionary Concept in Genetics and Genomics_"**. Puedes acceder al capítulo gratis a través de NCBI [AQUÍ](https://www.ncbi.nlm.nih.gov/books/NBK20255/?report=reader).
 
