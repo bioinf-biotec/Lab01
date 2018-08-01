@@ -1,6 +1,4 @@
-![unab-cbib](https://github.com/bioinf-biotec/labs_bioinf/blob/master/images/unabcbibhorizontal.png?raw=true)
-
-# Laboratorio 01 - Bases de datos biológicas
+# Laboratorio 01 - Bases de datos biológicas ![](https://github.com/bioinf-biotec/labs_bioinf/blob/master/images/big-data.png?raw=true)
 -------------------------
 
 #### En este laboratorio vamos a explorar bases de datos biológicas a través de un ejemplo guiado. La idea de este práctico es que uses y te interiorices con la mayor parte de las herramientas que las bases de datos te pueden ofrecer. Sigue las instrucciones y responde las preguntas. tus respuestas van a formar parte de la nota de laboratorio 01.
@@ -158,10 +156,16 @@ Puedes seguir practicando tus habilidades para buscar artículos científicos. L
 
 #### Trabajo de laboratorio para la próxima semana
 
-El trabajo de laboratorio para la próxima semana consta de dos partes. La primera parte ya la tienes parcialmente lista. Simplemente tienes que responder las preguntas que aparecen a través de esta guía y enviar un informe a tu ayudante (Katterinne Mendez: mendez.katterinne@gmail.com). Recuerda que si te la juegas y entregas el informe como documento Markdown tendrás 5 décimas adicionales en tu nota. Información sobre cómo escribir documentos Markdown está en la web por ejemplo [aquí](http://cesarhdz.com/articulos/escribir-en-markdown#que-es-markdown) o [aquí en inglés](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+El trabajo de laboratorio para la próxima semana consta de dos partes. La primera parte ya la tienes parcialmente lista. Simplemente tienes que responder las preguntas que aparecen a través de esta guía y enviar un informe a tu ayudante (Katterinne Mendez: mendez.katterinne@gmail.com). Recuerda que si te la juegas y entregas el informe como documento Markdown tendrás 5 décimas adicionales en tu nota.  .Información sobre cómo escribir documentos Markdown está en la web por ejemplo [aquí](http://cesarhdz.com/articulos/escribir-en-markdown#que-es-markdown) o [aquí en inglés](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
 La segunda parte del trabajo de laboratorio tiene que ver con leer un capítulo de libro y un artículo científico. Estos serán evaluados la próxima clase como parte del primer control de laboratorio.
 
 - El capítulo 2 del libro *Sequence - Evolution - Function: Computational Approaches in Comparative Genomics* que se llama *Evolutionary Concept in Genetics and Genomics*. Puedes acceder al capítulo gratis a través de NCBI --> Bookshelf [aquí](http://www.ncbi.nlm.nih.gov/books/NBK20255/?report=reader).
 
 - El siguiente artículo científico --> [Gabaldón, T., & Koonin, E. V. (2013). *Functional and evolutionary implications of gene orthology*. Nature Reviews Genetics, 14(5), 360-366.](https://github.com/bioinf-biotec/labs_bioinf/raw/master/Gabaldón_2013_NatRevGenet.pdf)
+
+---
+
+<p align="center">
+<img width="50%" src="https://github.com/bioinf-biotec/labs_bioinf/blob/master/images/unab_cbib_horizontal.png?raw=true">
+</p>
