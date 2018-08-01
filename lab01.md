@@ -1,5 +1,4 @@
 # Laboratorio 01 - Bases de datos biológicas ![](https://github.com/bioinf-biotec/labs_bioinf/blob/master/images/big-data.png?raw=true)
--------------------------
 
 #### En este laboratorio vamos a explorar bases de datos biológicas a través de un ejemplo guiado. La idea de este práctico es que uses y te interiorices con la mayor parte de las herramientas que las bases de datos te pueden ofrecer. Sigue las instrucciones y responde las preguntas. tus respuestas van a formar parte de la nota de laboratorio 01.
 

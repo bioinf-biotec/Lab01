@@ -6,7 +6,7 @@ Nota: Si alguno de Uds. no está familiarizado con GitHub, nunca es tarde para a
 
 ### Guías de laboratorio
 
-- **[Laboratorio 01 - Bases de datos biológicas]()**
+- **[Laboratorio 01 - Bases de datos biológicas](https://github.com/bioinf-biotec/labs_bioinf/blob/master/lab01.md)**
 
 - Laboratorio 02 - Alineamiento de secuencias
 
