@@ -15,11 +15,11 @@
 
 ##### Ve a la NCBI Gene database ([http://www.ncbi.nlm.nih.gov/gene](http://www.ncbi.nlm.nih.gov/gene)) y busca el gen que está involucrado en la enfermedad seleccionada. Algunos ejemplos pueden ser CFTR, SGCG, IDDM3, HBB. También puedes tratar directamente con el nombre de una enfermedad o condición (e.g., duchenne muscular dystrophy).   
 
-![ncbi_gene1]()
+![ncbi_gene1](https://github.com/bioinf-biotec/labs_bioinf/blob/master/images/ncbi_gene1.png?raw=true)
 
 La base de datos de genes de NCBI concentra información de distintas fuentes para producir una "ficha" con vínculos a otras bases de datos.
 
-![ncbi_gene2]()
+![ncbi_gene2](https://github.com/bioinf-biotec/labs_bioinf/blob/master/images/ncbi_gene2.png?raw=true)
 
 ---  
 		
