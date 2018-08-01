@@ -29,6 +29,14 @@ Los informes de laboratorio deben ser enviados en un documento word, PDF, o Mark
 
 ### Controles de entrada y lecturas
 
+A partir de la segunda clase (viernes 10 de agosto), se hará un control de entrada al inicio de cada práctico acerca de la lectura indicada una semana antes. El contenido de las lecturas es parte de los aprendizajes esperados del curso, por lo que, también puede ser evaluado en las solemnes. A continuación puedes revisar las lecturas asignadas cada semana.
+
+##### Clase del día 10 de agosto
+
+* Capítulo 2 del libro "_Sequence - Evolution - Function: Computational Approaches in Comparative Genomics_". El capítulo se titula **"_Evolutionary Concept in Genetics and Genomics_"**. Puedes acceder al capítulo gratis a través de NCBI [AQUÍ](https://www.ncbi.nlm.nih.gov/books/NBK20255/?report=reader).
+
+* El siguiente artículo científico: Gabaldón, T., & Koonin, E. V. (2013). **Functional and evolutionary implications of gene orthology**. Nature Reviews Genetics, 14(5), 360-366. Descarga el PDF [AQUÍ]().
+
 ### Código de honor o reglas del juego
 
 Los trabajos de laboratorio están diseñados para que cada estudiante trabaje de manera individual. El profesor y los ayudantes tienen una politica de ***tolerancia cero*** con respecto al plagio, copia, apropiación indebida de un trabajo o sus partes, o cualquier tipo de ayuda no contemplada en las conductas aceptables.
@@ -40,5 +48,5 @@ Conductas inaceptables: Los estudiantes no pueden, bajo ninguna circunstancia, p
 ---
 
 <p align="center">
-<img width="50%" src="">
+<img width="50%" src="https://github.com/bioinf-biotec/labs_bioinf/blob/master/images/unab_cbib_horizontal.png?raw=true">
 </p>
