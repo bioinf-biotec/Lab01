@@ -1,6 +1,6 @@
 # Laboratorio 01 - Bases de datos biológicas ![](https://github.com/bioinf-biotec/labs_bioinf/blob/master/images/big-data.png?raw=true)
 
-#### En este laboratorio vamos a explorar bases de datos biológicas a través de un ejemplo guiado. El objetivo del práctico es que uses y te interiorices con la mayor parte de las herramientas que las bases de datos te pueden ofrecer. Sigue las instrucciones y responde las preguntas. Tus respuestas van a formar parte de la nota de laboratorio 01.
+#### En este laboratorio vamos a explorar bases de datos biológicas a través de un ejemplo guiado. El objetivo del práctico es que uses y te interiorices con la mayor parte de las herramientas que las bases de datos te pueden ofrecer. Sigue las instrucciones y responde las preguntas, entre `[]` se indica el puntaje asignado a cada pregunta. Tus respuestas van a formar parte de la nota de laboratorio 01.
 
 ### Parte 1: Enfermedades genéticas y genes
 
@@ -8,8 +8,8 @@
 
 ---
 
-1. Nombra y describe brevemente la enfermedad que escogiste, qué la causa y cuáles son sus consecuencias.
-2. ¿Cuál(es) gene(s) han sido relacionados con esta enfermedad?
+1. Nombra y describe brevemente la enfermedad que escogiste, qué la causa y cuáles son sus consecuencias. [3]
+2. ¿Cuál(es) gene(s) han sido relacionados con esta enfermedad? [1]
 
 ---
 
@@ -17,37 +17,38 @@
 
 ![ncbi_gene1](https://github.com/bioinf-biotec/labs_bioinf/blob/master/images/ncbi_gene1.png?raw=true)
 
-La base de datos de genes de NCBI concentra información de distintas fuentes para producir una "ficha" con vínculos a otras bases de datos.
+La base de datos de genes de NCBI concentra información de distintas fuentes para producir una "ficha" con vínculos a otras bases de datos. Fíjate en el índice al lado derecho de la pantalla "_Table of contents_", te ayudará a encontrar la información que buscas rápidamente.
 
 ![ncbi_gene2](https://github.com/bioinf-biotec/labs_bioinf/blob/master/images/ncbi_gene2.png?raw=true)
 
 ---  
 		
-3. ¿Tiene nombres alternativos el gen?  
-4. ¿En qué cromosoma está? ¿Cuántos exones tiene? ¿Cuántas isoformas de transcritos?  
-5. ¿Qué tipo de proteina es codificada por este gen? ¿Cuál es su número EC?  
-6. ¿Qué genes están inmediatamente río arriba/abajo?  
+3. ¿Tiene nombres alternativos el gen? ¿Cuáles? [1]
+4. ¿En qué cromosoma está? ¿Cuántos exones tiene? [1]
+5. ¿Cuántas isoformas de transcritos? [2]
+6. ¿Qué tipo de proteina es codificada por este gen? ¿Cuál es su número EC? [2]
+7. ¿Qué genes están inmediatamente río arriba/abajo? [1]
 
 ---
 
-De tus conocimientos de genética básica, probablemente ya sabes que un gen puede tener múltiples alelos, y a su vez estos alelos pueden estar asociados a distintos fenotipos, e.g., enfermedades, severidad, etc. Lista cuántas variantes génicas tiene tu gen y a qué tipo de sustituciones corresponden (pista: revisa la sección de Variation en la página de tu gen).
+De tus conocimientos de genética básica, probablemente ya sabes que un gen puede tener múltiples alelos, y a su vez estos alelos pueden estar asociados a distintos fenotipos, e.g., enfermedades, severidad, etc. En la página de tu gen, dirígete a la sección "_Variation_" -> selecciona "_See variants in ClinVar_" e identifica cuántas variantes génicas tiene tu gen y a qué tipo de sustituciones corresponden. Fíjate que en la parte izquierda de la página hay un menú para filtrar datos, por ejemplo, por tipo de variación ("_Variation type_").
 
 ---
 
-**Responde:**  
-		
-7. ¿Cuál es la longitud de tu gen?
-8. ¿Cuántas variantes de tu gen hay descritas y en qué posiciones?  
-9. ¿Las sustituciones corresponden a cambios sinónimos o no sinónimos?  
-10. ¿Existen ortólogos de tu gen en otras especies? ¿Cuántos?  
-11. ¿Y paralógos? ¿Hay pseudogenes? ¿Cuántos?  
+8. ¿Cuál es la longitud de tu gen? [2]
+9. ¿Cuántas variantes de tu gen hay descritas y qué tipo de variantes son? [2] 
+10. ¿Las sustituciones (i.e. cambio de un nucleótido) corresponden a cambios sinónimos o no sinónimos? [2]
+11. ¿Existen ortólogos de tu gen en otras especies? ¿Cuántos? [1]
+12. ¿Y paralógos? ¿Hay pseudogenes? ¿Cuántos? [1]
 
 ---
 
-#### Parte 2: Rutas y procesos metabólicos
+### Parte 2: Rutas y procesos metabólicos
 
-Los genes generalmente codifican proteinas, las cuales a su vez están involucradas en rutas y procesos metabólicos. Existen bases de datos especializadas que compilan información referente a metabolismo. Las más populares son [BioCyc](http://biocyc.org), [REACTOME](http://www.reactome.org), y [Kegg](http://www.kegg.jp). Otras bases de datos agrupan proteinas involucradas en procesos biológicos más gruesos como [Clusters of Orthologous Groups (COGs)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4383993/) o [Gene Ontology (GO)](http://geneontology.org). Visita los vínculos a estas páginas y familiarizate con sus funcionalidades (no más de 10 minutos).  
-Ahora sigamos terabajando con el gen que escogiste en la parte 1. Una vez en la página principal de Kegg, haz clic en el vínculo Kegg gene. Busca el gen que escogiste en Kegg. Tienes que ingresar el código del organismo (*Homo sapiens* es hsa) y el nombre del gen en minúscula (por ejemplo: gapdh) de forma que para buscar la gliceraldehido-3-fosfato deshidrogenasa deberías ingresar hsa:gapdh.
+Los genes generalmente codifican proteínas, las cuales, a su vez están involucradas en rutas y procesos metabólicos. Existen bases de datos especializadas que compilan información referente a metabolismo. Las más populares son [BioCyc](http://biocyc.org), [REACTOME](http://www.reactome.org), y [KEGG](http://www.kegg.jp). Otras bases de datos agrupan proteínas involucradas en procesos biológicos más gruesos como [Clusters of Orthologous Groups (COGs)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4383993/) o [Gene Ontology (GO)](http://geneontology.org). Visita los vínculos a estas páginas y familiarízate con sus funcionalidades (no más de 10 minutos).
+
+Ahora sigamos trabajando con el gen que escogiste en la parte 1. Una vez en la página principal de KEGG, haz clic en el vínculo KEGG GENES. 
+Para buscar el gen que escogiste en KEGG GENES, en "_Enter org:gene_" tienes que escribir el código del organismo (para *Homo sapiens* es "hsa") y el nombre del gen en minúscula (por ejemplo: gapdh), separados por ":", así: "hsa:gapdh". Haz clic en "_Entry_".
 
 ![kegg](https://github.com/bioinf-biotec/labs_bioinf/blob/master/images/kegg_genes.png?raw=true)
 
