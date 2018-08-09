@@ -36,6 +36,11 @@ A partir de la segunda clase (viernes 10 de agosto), se hará un control de entr
 
 * El siguiente artículo científico: Gabaldón, T., & Koonin, E. V. (2013). **Functional and evolutionary implications of gene orthology**. Nature Reviews Genetics, 14(5), 360-366. Descarga el PDF [AQUÍ](https://github.com/bioinf-biotec/labs_bioinf/raw/master/documents/Gabaldón_2013_NatRevGenet.pdf).
 
+#### Clase del día 10 de agosto
+
+* Capítulo 2 del libro _"Sequence Alignment
+Methods, Models, Concepts, and Strategies" Edited by Michael S. Rosenberg_. El capítulo se titula **"_Insertion and Deletion Events, Their Molecular Mechanisms, and Their Impact on Sequence Alignments_"**. Puedes descargar el PDF del capítulo [AQUÍ](https://github.com/bioinf-biotec/labs_bioinf/raw/master/documents/Chapter2from_MichaelSRosenberg_Sequence_Alignment_Methods_Models_Concepts_and_Strategies_UniversityCaliforniaPress_2009.pdf).
+
 ### Código de honor o reglas del juego
 
 Los trabajos de laboratorio están diseñados para que cada estudiante trabaje de manera individual. El profesor y los ayudantes tienen una politica de ***tolerancia cero*** con respecto al plagio, copia, apropiación indebida de un trabajo o sus partes, o cualquier tipo de ayuda no contemplada en las conductas aceptables.
