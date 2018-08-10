@@ -137,7 +137,7 @@ Ya llegaste a la última parte de este laboratorio. Aquí vamos a seleccionar la
 
 ![amplifx](https://github.com/bioinf-biotec/labs_bioinf/blob/master/images/amplifx.png?raw=true)
 
-- Dirígete a la página de [Primer3](http://primer3.ut.ee) y copia y pega las secuencias codificantes del gen SRY de las 4 especies que preparaste.
+- Dirígete a la página de [Primer3](http://primer3.ut.ee) y copia y pega la secuencia codificantes del gen SRY de humano.
 - Haz clic en `Pick Primers`.
 - Al terminar, verás una página con los partidores propuestos. Tómate unos minutos para mirar los resultados.
 
