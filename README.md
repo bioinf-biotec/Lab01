@@ -8,9 +8,9 @@ Nota: Si alguno de Uds. no está familiarizado con GitHub, nunca es tarde para a
 
 - [Laboratorio 01 - Bases de datos biológicas](https://github.com/bioinf-biotec/labs_bioinf/blob/master/lab01.md)
 
-- **[Laboratorio 02 - Alineamiento de secuencias](https://github.com/bioinf-biotec/labs_bioinf/blob/master/lab02.md)**
+- [Laboratorio 02 - Alineamiento de secuencias](https://github.com/bioinf-biotec/labs_bioinf/blob/master/lab02.md)
 
-- Laboratorio 03 - Ensamblaje de genomas y predicción de genes
+- **[Laboratorio 03 - Ensamblaje de genomas y predicción de genes]()**
 
 - Laboratorio 04 - Filogenética Molecular
  
@@ -36,7 +36,7 @@ A partir de la segunda clase (viernes 10 de agosto), se hará un control de entr
 
 * El siguiente artículo científico: Gabaldón, T., & Koonin, E. V. (2013). **Functional and evolutionary implications of gene orthology**. Nature Reviews Genetics, 14(5), 360-366. Descarga el PDF [AQUÍ](https://github.com/bioinf-biotec/labs_bioinf/raw/master/documents/Gabaldón_2013_NatRevGenet.pdf).
 
-#### Clase del día 10 de agosto
+#### Clase del día 17 de agosto
 
 * Capítulo 2 del libro _"Sequence Alignment
 Methods, Models, Concepts, and Strategies" Edited by Michael S. Rosenberg_. El capítulo se titula **"_Insertion and Deletion Events, Their Molecular Mechanisms, and Their Impact on Sequence Alignments_"**. Puedes descargar el PDF del capítulo [AQUÍ](https://github.com/bioinf-biotec/labs_bioinf/raw/master/documents/Chapter2from_MichaelSRosenberg_Sequence_Alignment_Methods_Models_Concepts_and_Strategies_UniversityCaliforniaPress_2009.pdf).
