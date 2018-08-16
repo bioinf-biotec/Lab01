@@ -41,6 +41,10 @@ A partir de la segunda clase (viernes 10 de agosto), se hará un control de entr
 * Capítulo 2 del libro _"Sequence Alignment
 Methods, Models, Concepts, and Strategies" Edited by Michael S. Rosenberg_. El capítulo se titula **"_Insertion and Deletion Events, Their Molecular Mechanisms, and Their Impact on Sequence Alignments_"**. Puedes descargar el PDF del capítulo [AQUÍ](https://github.com/bioinf-biotec/labs_bioinf/raw/master/documents/Chapter2from_MichaelSRosenberg_Sequence_Alignment_Methods_Models_Concepts_and_Strategies_UniversityCaliforniaPress_2009.pdf).
 
+#### Clase del día 24 de agosto
+
+* El siguiente artículo científico: Nagarajan, N., & Pop, M. (2013). **Sequence assembly demystified**. Nature Reviews Genetics, 14, 157-167 | doi:10.1038/nrg3367. Descarga el PDF [AQUÍ](https://github.com/bioinf-biotec/labs_bioinf/raw/master/documents/pop.pdf).
+
 ### Código de honor o reglas del juego
 
 Los trabajos de laboratorio están diseñados para que cada estudiante trabaje de manera individual. El profesor y los ayudantes tienen una politica de ***tolerancia cero*** con respecto al plagio, copia, apropiación indebida de un trabajo o sus partes, o cualquier tipo de ayuda no contemplada en las conductas aceptables.
