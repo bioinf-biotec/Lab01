@@ -43,7 +43,7 @@ Methods, Models, Concepts, and Strategies" Edited by Michael S. Rosenberg_. El c
 
 #### Clase del día 31 de agosto
 
-* El siguiente artículo científico: Yang, Z., & Rannala, B. (2012). **Molecular phylogenetics: principles and practice**. Nature Reviews Genetics, 13(303), 1-12 | doi:10.1038/nrg3186. Descarga el PDF [AQUÍ](https://github.com/bioinf-biotec/labs_bioinf/raw/master/documents/nrg3186.pdf).
+* El siguiente artículo científico: Nagarajan, N., & Pop, M. (2013). **Sequence assembly demystified**. Nature Reviews Genetics, 14, 157-168 | doi:10.1038/nrg3367. Descarga el PDF [AQUÍ](https://github.com/bioinf-biotec/labs_bioinf/raw/master/documents/pop.pdf).
 
 ### Código de honor o reglas del juego
 
