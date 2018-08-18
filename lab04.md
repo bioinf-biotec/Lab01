@@ -42,7 +42,7 @@ Tu misión es inferir dos filogenias. La diferencia estará en los programas que
 
 **6.** ¿Cuál es la diferencia entre BioNJ y Neighbor? [3]
 
-- Corre nuevamente ambas filogenias, pero esta vez sin seleccionar _Alignment curation_. 
+**- Corre nuevamente ambas filogenias, pero esta vez sin seleccionar _Alignment curation_.**
 
 **7.** Incluye en tu informe una captura de pantalla de las dos filogenias que inferiste (sin _Alignment curation_). Recuerda que tu nombre completo debe aparecer en la imagen de cada filogenia (_Name of the analysis_). [2]
 
