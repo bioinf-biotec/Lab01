@@ -12,8 +12,8 @@ Nota: Si alguno de Uds. no está familiarizado con GitHub, nunca es tarde para a
 
 - [Laboratorio 03 - Ensamblaje de genomas y predicción de genes](https://github.com/bioinf-biotec/labs_bioinf/blob/master/lab03.md)
 
-- **[Laboratorio 04 - Filogenética Molecular]()**
- 
+- **[Laboratorio 04 - Filogenética Molecular](https://github.com/bioinf-biotec/labs_bioinf/blob/master/lab04.md)**
+
 - Laboratorio 05 - Metagenómica
 
 ### Informes de laboratorio
