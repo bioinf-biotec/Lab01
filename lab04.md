@@ -1,4 +1,4 @@
-# Laboratorio 04 - Filogenética Molecular
+# Laboratorio 04 - Filogenética Molecular ![](https://github.com/bioinf-biotec/labs_bioinf/blob/master/images/tree.png?raw=true)
 
 #### En este laboratorio vamos a familiarizarnos con la plataforma Phylogeny.fr para la inferencia de filogenias usando distintos métodos. Sigue las instrucciones y responde las preguntas, entre `[]` se indica el puntaje asignado a cada pregunta. Tus respuestas van a formar parte de la nota de laboratorio 04.
 
