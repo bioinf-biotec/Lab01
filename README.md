@@ -10,9 +10,9 @@ Nota: Si alguno de Uds. no está familiarizado con GitHub, nunca es tarde para a
 
 - [Laboratorio 02 - Alineamiento de secuencias](https://github.com/bioinf-biotec/labs_bioinf/blob/master/lab02.md)
 
-- **[Laboratorio 03 - Ensamblaje de genomas y predicción de genes](https://github.com/bioinf-biotec/labs_bioinf/blob/master/lab03.md)**
+- [Laboratorio 03 - Ensamblaje de genomas y predicción de genes](https://github.com/bioinf-biotec/labs_bioinf/blob/master/lab03.md)
 
-- Laboratorio 04 - Filogenética Molecular
+- **[Laboratorio 04 - Filogenética Molecular]()**
  
 - Laboratorio 05 - Metagenómica
 
@@ -41,9 +41,9 @@ A partir de la segunda clase (viernes 10 de agosto), se hará un control de entr
 * Capítulo 2 del libro _"Sequence Alignment
 Methods, Models, Concepts, and Strategies" Edited by Michael S. Rosenberg_. El capítulo se titula **"_Insertion and Deletion Events, Their Molecular Mechanisms, and Their Impact on Sequence Alignments_"**. Puedes descargar el PDF del capítulo [AQUÍ](https://github.com/bioinf-biotec/labs_bioinf/raw/master/documents/Chapter2from_MichaelSRosenberg_Sequence_Alignment_Methods_Models_Concepts_and_Strategies_UniversityCaliforniaPress_2009.pdf).
 
-#### Clase del día 24 de agosto
+#### Clase del día 31 de agosto
 
-* El siguiente artículo científico: Nagarajan, N., & Pop, M. (2013). **Sequence assembly demystified**. Nature Reviews Genetics, 14, 157-167 | doi:10.1038/nrg3367. Descarga el PDF [AQUÍ](https://github.com/bioinf-biotec/labs_bioinf/raw/master/documents/pop.pdf).
+* El siguiente artículo científico: Yang, Z., & Rannala, B. (2012). **Molecular phylogenetics: principles and practice**. Nature Reviews Genetics, 13(303), 1-12 | doi:10.1038/nrg3186. Descarga el PDF [AQUÍ](https://github.com/bioinf-biotec/labs_bioinf/raw/master/documents/nrg3186.pdf).
 
 ### Código de honor o reglas del juego
 
