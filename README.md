@@ -45,6 +45,10 @@ Methods, Models, Concepts, and Strategies" Edited by Michael S. Rosenberg_. El c
 
 * El siguiente artículo científico: Nagarajan, N., & Pop, M. (2013). **Sequence assembly demystified**. Nature Reviews Genetics, 14, 157-168 | doi:10.1038/nrg3367. Descarga el PDF [AQUÍ](https://github.com/bioinf-biotec/labs_bioinf/raw/master/documents/pop.pdf).
 
+#### Clase del día 14 de septiembre
+
+* El siguiente artículo científico: Yang, Z., & Rannala, B. (2012). **Molecular phylogenetics: principles and practice**. Nature Reviews Genetics, 13(303), 1-12 | doi:10.1038/nrg3186. Descarga el PDF [AQUÍ](https://github.com/bioinf-biotec/labs_bioinf/raw/master/documents/nrg3186.pdf).
+
 ### Código de honor o reglas del juego
 
 Los trabajos de laboratorio están diseñados para que cada estudiante trabaje de manera individual. El profesor y los ayudantes tienen una politica de ***tolerancia cero*** con respecto al plagio, copia, apropiación indebida de un trabajo o sus partes, o cualquier tipo de ayuda no contemplada en las conductas aceptables.
