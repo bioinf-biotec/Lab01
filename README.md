@@ -14,7 +14,7 @@ Nota: Si alguno de Uds. no está familiarizado con GitHub, nunca es tarde para a
 
 - [Laboratorio 04 - Filogenética Molecular](https://github.com/bioinf-biotec/labs_bioinf/blob/master/lab04.md)
 
-- **[Laboratorio 05 - Metagenómica](https://github.com/bioinf-biotec/labs_bioinf/blob/master/lab05.md)**
+- [Laboratorio 05 - Metagenómica](https://github.com/bioinf-biotec/labs_bioinf/blob/master/lab05.md)
 
 ### Informes de laboratorio
 
@@ -48,6 +48,10 @@ Methods, Models, Concepts, and Strategies" Edited by Michael S. Rosenberg_. El c
 #### Clase del día 14 de septiembre
 
 * El siguiente artículo científico: Yang, Z., & Rannala, B. (2012). **Molecular phylogenetics: principles and practice**. Nature Reviews Genetics, 13(303), 1-12 | doi:10.1038/nrg3186. Descarga el PDF [AQUÍ](https://github.com/bioinf-biotec/labs_bioinf/raw/master/documents/nrg3186.pdf).
+
+#### Clase del día 28 de septiembre
+
+* El siguiente artículo científico: Knight, R., Jansson, J., Field, D., Fierer, N., Desai, N., Fuhrman, J.A., Hugenholtz, P., van der Lelie, D., Meyer, F., Stevens, R., Bailey, M.J., Gordon, J.I., Kowalchuk, G.A., & Gilbert, J.A. (2012). **Unlocking the potential of metagenomics through replicated experimental design**. Nature Biotechnology. 30(6):513-520 | doi:10.1038/nbt.2235. Descarga el PDF [AQUÍ](https://github.com/bioinf-biotec/labs_bioinf/raw/master/documents/nbt.2235.pdf).
 
 ### Código de honor o reglas del juego
 
